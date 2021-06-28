@@ -1,0 +1,27 @@
+.logo{
+    font-family: 'Monoton', cursive;
+}
+#id{
+    margin-left: 10px !important;
+}
+
+.join{
+    background-color: #ad16c4;
+    color: #fff;
+    padding: 5px 12px;
+    border-radius: 8px;
+}
+.create{
+    text-decoration: none;
+    color: #72e018;
+    padding: 2px 5px;
+    font-weight: 500;
+    border-radius: 20px;
+    background-color: #EFEFEF;
+}
+.log{
+    text-decoration: none;
+    color: #4d18e0;
+    font-weight: 700;
+    padding: 4px;
+}
